@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>preprocessor</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <div class="header">
+        <div class="slova">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, omnis, ducimus. Sapiente sunt quis quas soluta magni laboriosam. Debitis labore exercitationem blanditiis necessitatibus omnis impedit quisquam delectus voluptas, aliquam, aliquid dicta velit molestiae obcaecati. Veniam, voluptas, odio. Molestiae accusantium molestias eligendi consectetur maiores, dolorum error provident corrupti nobis assumenda, numquam tenetur optio. Nemo nostrum explicabo cumque autem inventore, sint non tenetur commodi recusandae atque quaerat, voluptatem voluptatum possimus</div>
+    </div>
+    <div class="main">
+        <div class="block">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, omnis, ducimus. Sapiente sunt quis quas soluta magni laboriosam. Debitis labore exercitationem blanditiis necessitatibus omnis impedit quisquam delectus voluptas, aliquam, aliquid dicta velit molestiae obcaecati. Veniam, voluptas, odio. Molestiae accusantium molestias eligendi consectetur maiores, dolorum error provident corrupti nobis assumenda, numquam tenetur optio. Nemo nostrum explicabo cumque autem inventore, sint non tenetur commodi recusandae atque quaerat, voluptatem voluptatum possimus </div>
+        <div class="block">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, omnis, ducimus. Sapiente sunt quis quas soluta magni laboriosam. Debitis labore exercitationem blanditiis necessitatibus omnis impedit quisquam delectus voluptas, aliquam, aliquid dicta velit molestiae obcaecati. Veniam, voluptas, odio. Molestiae accusantium molestias eligendi consectetur maiores, dolorum error provident corrupti nobis assumenda, numquam tenetur optio. Nemo nostrum explicabo cumque autem inventore, sint non tenetur commodi recusandae atque quaerat, voluptatem voluptatum possimus</div>
+        <div class="block">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, omnis, ducimus. Sapiente sunt quis quas soluta magni laboriosam. Debitis labore exercitationem blanditiis necessitatibus omnis impedit quisquam delectus voluptas, aliquam, aliquid dicta velit molestiae obcaecati. Veniam, voluptas, odio. Molestiae accusantium molestias eligendi consectetur maiores, dolorum error provident corrupti nobis assumenda, numquam tenetur optio. Nemo nostrum explicabo cumque autem inventore, sint non tenetur commodi recusandae atque quaerat, voluptatem voluptatum possimus</div>
+        <div class="block">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, omnis, ducimus. Sapiente sunt quis quas soluta magni laboriosam. Debitis labore exercitationem blanditiis necessitatibus omnis impedit quisquam delectus voluptas, aliquam, aliquid dicta velit molestiae obcaecati. Veniam, voluptas, odio. Molestiae accusantium molestias eligendi consectetur maiores, dolorum error provident corrupti nobis assumenda, numquam tenetur optio. Nemo nostrum explicabo cumque autem inventore, sint non tenetur commodi recusandae atque quaerat, voluptatem voluptatum possimus</div>
+        <div class="block">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, omnis, ducimus. Sapiente sunt quis quas soluta magni laboriosam. Debitis labore exercitationem blanditiis necessitatibus omnis impedit quisquam delectus voluptas, aliquam, aliquid dicta velit molestiae obcaecati. Veniam, voluptas, odio. Molestiae accusantium molestias eligendi consectetur maiores, dolorum error provident corrupti nobis assumenda, numquam tenetur optio. Nemo nostrum explicabo cumque autem inventore, sint non tenetur commodi recusandae atque quaerat, voluptatem voluptatum possimus</div>
+        <div class="block">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, omnis, ducimus. Sapiente sunt quis quas soluta magni laboriosam. Debitis labore exercitationem blanditiis necessitatibus omnis impedit quisquam delectus voluptas, aliquam, aliquid dicta velit molestiae obcaecati. Veniam, voluptas, odio. Molestiae accusantium molestias eligendi consectetur maiores, dolorum error provident corrupti nobis assumenda, numquam tenetur optio. Nemo nostrum explicabo cumque autem inventore, sint non tenetur commodi recusandae atque quaerat, voluptatem voluptatum possimus</div>
+        
+        <div class="clearfix"></div>
+    </div>
+    <div class="footer">
+        <div class="slova">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, omnis, ducimus. Sapiente sunt quis quas soluta magni laboriosam. Debitis labore exercitationem blanditiis necessitatibus omnis impedit quisquam delectus voluptas, aliquam, aliquid dicta velit molestiae obcaecati. Veniam, voluptas, odio. Molestiae accusantium molestias eligendi consectetur maiores, dolorum error provident corrupti nobis assumenda, numquam tenetur optio. Nemo nostrum explicabo cumque autem inventore, sint non tenetur commodi recusandae atque quaerat, voluptatem voluptatum possimus</div>
+        </div>
+</body>
+</html>
